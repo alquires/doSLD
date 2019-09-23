@@ -1,0 +1,7 @@
+C:\Users\embrapa\Documents\SharpDevelop Projects\DoSLD\DoSLD\obj\Debug\DoSLD.csprojResolveAssemblyReference.cache
+C:\Users\embrapa\Documents\SharpDevelop Projects\DoSLD\DoSLD\obj\Debug\DoSLD.MainForm.resources
+C:\Users\embrapa\Documents\SharpDevelop Projects\DoSLD\DoSLD\obj\Debug\DoSLD.csproj.GenerateResource.Cache
+C:\Users\embrapa\Documents\SharpDevelop Projects\DoSLD\DoSLD\bin\Debug\DoSLD.exe
+C:\Users\embrapa\Documents\SharpDevelop Projects\DoSLD\DoSLD\bin\Debug\DoSLD.pdb
+C:\Users\embrapa\Documents\SharpDevelop Projects\DoSLD\DoSLD\obj\Debug\DoSLD.exe
+C:\Users\embrapa\Documents\SharpDevelop Projects\DoSLD\DoSLD\obj\Debug\DoSLD.pdb
